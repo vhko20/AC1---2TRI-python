@@ -29,7 +29,7 @@ def cadastrar_jogador():
 
         print("Jogador cadastrado com sucesso.")
 
-        continuar = input("Deseja cadastrar outro aluno? (s/n): ")
+        continuar = input("Deseja cadastrar outro jogador? (s/n): ")
 
 
 def mostrar_jogadores():
@@ -49,7 +49,7 @@ def mostrar_relatorio():
             i+=1
 
 
-def pesquisar_aluno():
+def pesquisar_jogador():
 
     if len(nomes) == 0:
         print("Sem jogadores cadastrados")
