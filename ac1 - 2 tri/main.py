@@ -26,7 +26,7 @@ while opcao != 8:
         mostrar_relatorio()
 
     elif opcao == 4:
-        pesquisar_aluno()
+        pesquisar_jogador()
 
     elif opcao == 5:
         alterarInfo_jogador()
