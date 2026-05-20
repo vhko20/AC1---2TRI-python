@@ -1,0 +1,3 @@
+nomes = []
+partidas = []
+gols = []
